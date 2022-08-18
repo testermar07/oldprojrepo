@@ -1,0 +1,14 @@
+pages\BookingConfirmationPage.class
+pages\BasePage.class
+testscripts\regression\TC_104.class
+pages\LoginPage.class
+testscripts\regression\ExcelDemo.class
+testscripts\regression\TC_101.class
+pages\BookedItineraryPage.class
+pages\BookHotelPage.class
+pages\SearchHotelPage.class
+utils\UtilKit.class
+testscripts\regression\TC_102.class
+testscripts\regression\ValidateLogin.class
+testscripts\regression\TC_103.class
+pages\SelectHotelPage.class

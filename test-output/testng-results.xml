@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-10T06:30:14 IST" name="Default suite" finished-at="2022-05-10T06:30:37 IST" duration-ms="22829">
+    <groups>
+    </groups>
+    <test started-at="2022-05-10T06:30:14 IST" name="Default test" finished-at="2022-05-10T06:30:37 IST" duration-ms="22829">
+      <class name="testscripts.regression.TC_104">
+        <test-method is-config="true" signature="fileSetUp()[pri:0, instance:testscripts.regression.TC_104@6cd28fa7]" started-at="2022-05-10T06:30:14 IST" name="fileSetUp" finished-at="2022-05-10T06:30:14 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileSetUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testscripts.regression.TC_104@6cd28fa7]" started-at="2022-05-10T06:30:16 IST" name="setUp" finished-at="2022-05-10T06:30:23 IST" duration-ms="7680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCase104(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testscripts.regression.TC_104@6cd28fa7]" started-at="2022-05-10T06:30:23 IST" name="testCase104" data-provider="getTestData" finished-at="2022-05-10T06:30:37 IST" duration-ms="13119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz0310]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sydney]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hotel Creek]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Standard]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 - One]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10/05/2022]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[11/05/2022]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1 - One]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[0 - None]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase104 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testscripts.regression.TC_104@6cd28fa7]" started-at="2022-05-10T06:30:37 IST" name="tearDown" finished-at="2022-05-10T06:30:37 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testscripts.regression.TC_104 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
