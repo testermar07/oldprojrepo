@@ -15,7 +15,7 @@ public class ValidateLogin extends BasePage {
 	{
 		LoginPage loginPage=new LoginPage(driver);
 		
-		loginPage.username("reyaz0617");
+		loginPage.username("reyaz0618");
 		
 		loginPage.password("reyaz123");
 		
